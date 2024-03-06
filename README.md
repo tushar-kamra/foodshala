@@ -1,8 +1,6 @@
 # FoodShala 
 A web app to facilitate the food ordering process.
 
-Live at: http://tusharkamra.epizy.com/foodshala
-
 > ## Features:
 
 * [x] Separate portals for Restaurant and Customer
